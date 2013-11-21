@@ -11,5 +11,5 @@
 @interface PlatformerAppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
-
+//can i edit this norally
 @end
